@@ -9,12 +9,12 @@ Welcome to my LinkedIn profile! I’m Sejal Chokshi, a passionate **Junior Devel
 With a background in **IT Support**, I have a deep understanding of troubleshooting, customer service, and problem resolution. I recently transitioned into **Software Development** with a focus on **Frontend Web Development**. I’m excited about building intuitive and responsive web applications and continuously learning new technologies.
 
 My expertise includes:
-- **Languages**: HTML, CSS, JavaScript (React, Node.js), Python
-- **Frameworks & Libraries**: React, Bootstrap, Express.js
-- **Databases**: SQL, MongoDB
-- **Tools**: Git, GitHub, Visual Studio Code, Jira
-- **Methodologies**: Agile, Scrum
-- **Other**: Version Control (Git), Testing (Jest, Mocha), UI/UX principles
+- **Languages**: HTML, CSS, JavaScript (React, Node.js)
+- **Frameworks & Libraries**: React 
+- **Databases**: SQL(Basic)
+- **Tools**: Git, GitHub, Visual Studio Code, Jira(Basic)
+- **Methodologies**: Agile Methodology
+- **Other**: Version Control (Git), Manual Testing, UI/UX principles
 
 I am highly motivated to apply my experience in technology and customer service to create user-centric solutions that solve real-world problems. 
 
@@ -37,8 +37,7 @@ I’m eager to grow as a **junior developer** and apply my problem-solving skill
 
 ## Let’s Connect!
 
-I am always open to new opportunities, collaborations, and networking with like-minded professionals. If you have any questions or would like to discuss potential opportunities, feel free to reach out via LinkedIn messaging or email at **[smchokshi812@gmail.com](mailto:smchokshi812@gmail.com)**.
-
+I am always open to new opportunities, collaborations, and networking with like-minded professionals. If you have any questions or would like to discuss potential opportunities, feel free to reach out via LinkedIn messaging or email at **[smchokshi812@gmail.com]
 Looking forward to connecting!
 
 ---
