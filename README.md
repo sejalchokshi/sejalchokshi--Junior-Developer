@@ -1,4 +1,3 @@
-# sejalchokshi--Junior-Developer
 # Sejal Chokshi | Junior Developer | IT Support Specialist | Web Development Enthusiast
 
 ![Profile Picture](https://via.placeholder.com/150) <!-- Add your profile picture URL here -->
